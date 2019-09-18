@@ -28,6 +28,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/highLevelHttpApi/Directives.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/highLevelHttpApi/DirectivesApp.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/highLevelHttpApi/HighLevelIntro.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/lowLevelHttpAPI/AboutHomeApi.scala">
           <value>
             <set />
@@ -39,6 +54,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/lowLevelHttpAPI/LowLevelApi.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/lowLevelHttpAPI/LowLevelHttps.scala">
           <value>
             <set />
           </value>
