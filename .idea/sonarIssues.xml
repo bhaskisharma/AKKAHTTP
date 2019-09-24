@@ -28,6 +28,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/akkaClient/ConnectionLevel.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/akkaClient/PaymentSystem.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/akkaStreamSupport/primerAkkaStreams/FirstPrinciples.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/controller/ServiceCallBack.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/highLevelHttpApi/Directives.scala">
           <value>
             <set />
@@ -38,7 +58,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/highLevelHttpApi/HighLevelDesign.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/highLevelHttpApi/HighLevelExample.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/highLevelHttpApi/HighLevelIntro.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/highLevelHttpApi/JsonParsingMarshling.scala">
           <value>
             <set />
           </value>
@@ -64,6 +99,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/lowLevelHttpAPI/LowLevelServer.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/main/java/com/vzw/promotion/helper/VZWPricingAndPromotionImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/main/java/com/vzw/promotion/helper/VZWPromotionHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/test/java/com/vzw/promo/testcases/VZWPricingAndPromotionImplTest.java">
           <value>
             <set />
           </value>
