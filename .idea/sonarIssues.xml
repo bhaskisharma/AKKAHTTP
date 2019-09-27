@@ -38,7 +38,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/akkaStreamSupport/primerAkkaStreams/AkkaStreamOperatorFusion.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/akkaStreamSupport/primerAkkaStreams/FirstPrinciples.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/akkaStreamSupport/primerAkkaStreams/MaterializingStreams.scala">
           <value>
             <set />
           </value>
@@ -103,12 +113,37 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/sql/Promo_Redis_Common.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/main/java/com/vzw/common/utils/PromoRedisLookup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/main/java/com/vzw/promotion/helper/VZWPricingAndPromotionImpl.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/main/java/com/vzw/promotion/helper/VZWPromotionHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/test/java/com/vzw/config/TestConfigModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/test/java/com/vzw/promo/data/provider/FileJSONESDataProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Verizon/Promo-Core-19-10-00-ER/promo-core/src/test/java/com/vzw/promo/testcases/BAGXBOGOPromoTest.java">
           <value>
             <set />
           </value>
