@@ -14,7 +14,6 @@ object AkkaStreamOperatorFusion extends App {
   val simpleFlow2 = Flow[Int].map(_ * 10)
   val simpleSink = Sink.foreach(println)
 
-
   //by default run on same Actor // Single CPU Core is used for every single element
 //  simpleSource.via(simpleFlow).via(simpleFlow2).to(simpleSink).run()
 
